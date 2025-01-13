@@ -1,0 +1,29 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+body {
+    font-family:sans-serif;
+}
+
+main {
+    background-image:url("../images/fv_img.jpg");
+    background-position:center;
+    background-size:cover;
+    height:620px;
+}
+
+main div {
+    width:1000px;
+    margin:auto;
+    padding-top:80px;
+}
+
+main h1 {
+    color:#e74617;
+    font-size:38px;
+    font-weight:900px;
+    font-style:italic;
+    margin-bottom:30px;
+}
