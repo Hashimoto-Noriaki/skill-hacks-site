@@ -23,7 +23,36 @@ main div {
 main h1 {
     color:#e74617;
     font-size:38px;
-    font-weight:900px;
+    font-weight:900;
     font-style:italic;
     margin-bottom:30px;
+}
+
+main img {
+    margin-bottom:30px;
+}
+
+main ul {
+    margin-bottom:30px;
+}
+
+main ul li {
+    display:inline-block;
+    color:#e74617;
+    font-size:28px;
+    font-weight:500;
+    background-color:#fff;
+    border-radius:100px;
+    padding:10px;
+    margin-right:10px;
+}
+
+main a {
+    display:inline-block;
+    text-decoration:none;
+    color:#fff;
+    background-color:#21BB7A;
+    padding:20px;
+    border-radius:6px;
+    border-style:solid;
 }
